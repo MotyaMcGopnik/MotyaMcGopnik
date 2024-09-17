@@ -1,3 +1,5 @@
+# 💫 About Me:
+I am currently working on my BSIT degree, (graduate in May 2025)<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/matthew-boiarski-615589235) 
