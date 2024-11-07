@@ -9,10 +9,6 @@ I am currently working on my BSIT degree, (graduate in May 2025)<br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MotyaMcGopnik&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MotyaMcGopnik&theme=shadow_red&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MotyaMcGopnik&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MotyaMcGopnik&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MotyaMcGopnik&icon=0&color=4)](https://visitcount.itsvg.in)
